@@ -13,4 +13,4 @@ Part3 : Animated image.
 
 Realised with Nathan Scutari.
 
-Grade : 24.01
+Grade : 24.01 / 20
