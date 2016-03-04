@@ -16,6 +16,6 @@ Part3 : Animated image.
 ![WallScreenshot](/wall1.png?raw=true "Basic view")
 ![WallScreenshot](/wall2.png?raw=true "Basic view")
 
-Realised with Nathan Scutari.
+Realized with Nathan Scutari.
 
 Grade : 24.01 / 20
